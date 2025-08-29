@@ -8,19 +8,20 @@
 
 **Skills & Tools Covered**
 
--Exploratory Data Analysis
--Ensemble Techniques
--Logistic regression
--KNN
--Naive Bayes
--Decision tree
--Pruning
--Bagging
--Boosting
--Stacking
--Data Pre-processing
--Model Tuning
--Cross Validation
--Sampling
--Hyperparameter tuning
+- Exploratory Data Analysis
+- Ensemble Techniques
+- Logistic regression
+- KNN
+- Naive Bayes
+- Decision tree
+- Pruning
+- Bagging
+- Boosting
+- Stacking
+- Data Pre-processing
+- Model Tuning
+- Cross Validation
+- Sampling
+- Hyperparameter tuning
+- 
 
